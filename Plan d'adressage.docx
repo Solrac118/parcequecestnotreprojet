@@ -1,4 +1,6 @@
-Mediatech Capendu	192.168.1.0
-Pc de la salle multimédia	De 192.168.1.1 a 192.168.1.10
-RPI (avec capteur)	De 192.168.1.11 a 192.168.1.13
-Serveur d’application	192.168.1.14
+Médiathèque Capendu	192.168.1.0/24
+Pc de la salle multimédia	De 192.168.1.1/24 a 192.168.1.10/24
+Serveur d’application Température	192.168.1.11/24
+Carte ETHIOS32 192.168.1.12/24
+RPI (avec capteur)	De 192.168.1.13 a 192.168.1.15
+
